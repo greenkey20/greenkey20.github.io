@@ -3,7 +3,7 @@
 
 title: green umbrella
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  신입 백엔드 개발자 강은영의 포트폴리오 페이지
 baseurl: "/" # the subpath of the site
 url: "https://greenkey20.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic-key.jpeg
@@ -12,10 +12,10 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-      slug: /
-    - name: CV
+      slug: /    
     - name: Projects
     - name: Stories
+    - name: CV
 
 footer:
   show_powered_by: true
@@ -26,7 +26,7 @@ footer:
   follow:
     - name: GitHub
       link: https://github.com/greenkey20
-    - name: Tistory
+    - name: blog
       link: https://greenkey20dev.tistory.com/
     - name: LinkedIn
       link: http://www.linkedin.com/in/greenkey20
