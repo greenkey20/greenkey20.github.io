@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/" # the subpath of the site
 url: "https://greenkey20.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile-pic-key.jpeg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -26,11 +26,10 @@ footer:
   follow:
     - name: GitHub
       link: https://github.com/greenkey20
-    - name: blog
+    - name: Tistory
       link: https://greenkey20dev.tistory.com/
     - name: LinkedIn
       link: http://www.linkedin.com/in/greenkey20
-
 
 # Build settings
 markdown: kramdown
