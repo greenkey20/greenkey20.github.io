@@ -16,7 +16,11 @@ header:
     - name: Projects  # 새로 추가
       slug: /projects
     - name: Stories
+      slug: /stories
+      disabled: true  # 비활성화된 메뉴
     - name: CV
+      slug: /cv
+      disabled: true  # 비활성화된 메뉴
 
 footer:
   show_powered_by: true
